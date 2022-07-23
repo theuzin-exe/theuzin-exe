@@ -17,8 +17,8 @@
 </div>
   <div align="right">
   <a href="https://github.com/theuzin-exe">
-  <img align ="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
+  <img align ="left" height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
+   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
 </div>
 
   
