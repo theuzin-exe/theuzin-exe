@@ -1,19 +1,27 @@
 <div align="center">
-  <h1> Hi, my name is Matheus!</h1>
+  <h1> Hi, my name is Matheus! 🕷 </h1>
+<div align="center"><br>
+  <img align="center" alt="Theuzin-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/732001099900387413/1000431173387956287/300115fcb328c5fc1b225a75a2b94538_copiar.jpg?width=676&height=676">
+
 </div>
-  <div align="center">
+<br>
+<div align="left"><br>
+🙋🏿‍♂️• Meu nome é Matheus Souza <br>
+🎓• Formado no Curso Técnico em Informática (Firjan SENAI) <br>
+🌐• Atualmente, estou aperfeiçoando meus conhecimentos de TI no "Alura" <br>
+🖥• Aprendendo mais sobre HTML/CSS/JavaScript <br>
+📚• Grande Interesse na área de Data Science [👁‍🗨] e Back-end 👁‍🗨 = Alto interesse <br>
+👾• Como entrar em contato comigo: Discord > theuzin #7777 <br>
+
+<br>
+</div>
+  <div align="right">
   <a href="https://github.com/theuzin-exe">
-  <img align= "left" height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
-   
-    
-  <img  align= "left" height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
+  <img align ="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Theuzin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Theuzin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Theuzin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Theuzin-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/732001099900387413/1000431173387956287/300115fcb328c5fc1b225a75a2b94538_copiar.jpg?width=676&height=676">
-</div>
+
+  
   
   ##
  
