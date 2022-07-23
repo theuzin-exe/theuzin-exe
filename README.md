@@ -6,7 +6,7 @@
   <img align= "left" height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
    
     
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
+  <img  align= "left" height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10&text_color=ffffff"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Theuzin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
