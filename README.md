@@ -1,8 +1,10 @@
 ## Hi, my name is Matheus!
 <div align="center">
   <a href="https://github.com/theuzin-exe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuzin-exe&layout=compact&langs_count=7&theme=dark"/>
+  <img align= "left" height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10"/>
+   
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theuzin-exe&show_icons=true&title_color=c91c10&icon_color=c91c10&bg_color=030000&border_color=c91c10"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
