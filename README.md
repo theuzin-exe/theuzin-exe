@@ -10,7 +10,7 @@
 🎓• Formado no Curso Técnico em Informática (Firjan SENAI) <br>
 🌐• Atualmente, estou aperfeiçoando meus conhecimentos de TI no "Alura" <br>
 🖥• Aprendendo mais sobre HTML/CSS/JavaScript <br>
-📚• Grande Interesse na área de Data Science [👁‍🗨] e Back-end 👁‍🗨 = Alto interesse <br>
+📚• Grande Interesse na área de Back-end<br>
 👾• Como entrar em contato comigo: Discord > theuzin #7777 <br>
 
 <br>
